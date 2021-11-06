@@ -28,7 +28,7 @@
 <br/>
 <br/>
 
-> ## Drugs that I have taken
+> ## Tools and Technologies that I have used
 
 <!-- BASIC -->
 <a href="https://www.w3schools.com/html">
@@ -163,8 +163,6 @@ https://user-images.githubusercontent.com/50915748/140615207-0b07884c-7f47-458e-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=themashcodee&repo=Chatsman)](https://github.com/themashcodee/Chatsman)
 
-<br/>
-
 ### 2. Goldencent - A beautiful static website for a company
 
 **Live** - https://goldencent.vercel.app
@@ -179,8 +177,6 @@ https://user-images.githubusercontent.com/50915748/140620356-1cb9e086-1828-4f2f-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=themashcodee&repo=goldencent)](https://github.com/themashcodee/goldencent)
 
-<br/>
-<br/>
 <br/>
 
 > ## Stats
