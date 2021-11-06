@@ -6,7 +6,7 @@
 
 ---
 
-### Connect with me
+> ## Connect with me
 
 <a href="https://twitter.com/themashcodee">
 <img height="35" src="./images/twitter.svg"/>
@@ -24,8 +24,11 @@
 <a href="mailto:codeemash@gmail.com">
 <img height="35" src="./images/gmail.svg"/>
 </a>
+<br/>
+<br/>
+<br/>
 
-### Drugs that I have taken
+> ## Drugs that I have taken
 
 <!-- BASIC -->
 <a href="https://www.w3schools.com/html">
@@ -139,3 +142,13 @@
 <a href="https://www.postman.com/">
 <img height="35" src="./images/postman.svg"/>
 </a>
+
+<br/>
+<br/>
+<br/>
+
+> ## Projects
+
+### Chatsman - An advance chatting app (PWA)
+
+https://user-images.githubusercontent.com/50915748/140615207-0b07884c-7f47-458e-8840-0971edae3885.mp4
