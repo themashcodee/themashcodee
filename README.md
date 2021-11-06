@@ -91,3 +91,51 @@
 <a href="https://graphql.org/">
 <img height="35" src="./images/graphql.svg"/>
 </a>
+
+<br/>
+
+<!-- DATABASES -->
+<a href="https://www.postgresql.org/">
+<img height="35" src="./images/postgresql.svg"/>
+</a>
+<a href="https://www.mongodb.com/">
+<img height="35" src="./images/mongodb.svg"/>
+</a>
+<a href="https://redis.io/">
+<img height="35" src="./images/redis.svg"/>
+</a>
+<a href="https://www.prisma.io/">
+<img height="35" src="./images/prisma.svg"/>
+</a>
+<a href="https://strapi.io/">
+<img height="35" src="./images/strapi.svg"/>
+</a>
+
+<br/>
+
+<!-- HOSTING -->
+<a href="https://www.heroku.com/">
+<img height="35" src="./images/heroku.svg"/>
+</a>
+<a href="https://supabase.io/">
+<img height="35" src="./images/supabase.svg"/>
+</a>
+<a href="https://www.netlify.com/">
+<img height="35" src="./images/netlify.svg"/>
+</a>
+<a href="https://vercel.com/">
+<img height="35" src="./images/vercel.svg"/>
+</a>
+
+<br/>
+
+<!-- TOOLS -->
+<a href="https://git-scm.com/">
+<img height="35" src="./images/git.svg"/>
+</a>
+<a href="https://www.figma.com/">
+<img height="35" src="./images/figma.svg"/>
+</a>
+<a href="https://www.postman.com/">
+<img height="35" src="./images/postman.svg"/>
+</a>
