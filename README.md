@@ -149,6 +149,12 @@
 
 > ## Projects
 
-### Chatsman - An advance chatting app (PWA)
+### Chatsman - An advance realtime chatting app (PWA)
+
+Live - https://chatsman.vercel.app
+
+Tools & Technologies - Next.js, Graphql and Graphql subscription, Apollo client, next-pwa, Google cloud storage bucket, Apollo server express, Bcrypt, Mongoose, Multer, MongoDB, Redis, JWT, Sendgrid, Heroku, Vercel.
+
+Features - Online/Offline, Delete message, Slide message reply (reply to a specific message), Send images, Chat background, Profile (name,bio,username,profile picture), Block account, Delete chat, Manipulate user (update details, logout, delete account), Download the sent or received images, Lastseen.
 
 https://user-images.githubusercontent.com/50915748/140615207-0b07884c-7f47-458e-8840-0971edae3885.mp4
