@@ -1,16 +1,19 @@
-### Hi there 👋
+<!-- HEADING -->
 
-<!--
-**themashcodee/themashcodee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Mash Codee
 
-Here are some ideas to get you started:
+#### A enthusiastic Full-Stack web developer from India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Connect with me
+
+<a href="https://twitter.com/themashcodee">
+<img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
+</a>
+<a href="https://www.linkedin.com/in/themashcodee/">
+<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
+<a href="https://www.linkedin.com/in/themashcodee/">
+<img src="./images/hashnode.svg"/>
+</a>
