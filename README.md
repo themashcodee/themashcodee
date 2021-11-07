@@ -160,7 +160,6 @@ Fullstack developer with primary focus on frontend.
 
 <br/>
 <br/>
-<br/>
 
 > ## Projects
 
