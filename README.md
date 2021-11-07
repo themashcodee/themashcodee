@@ -57,6 +57,7 @@
 </a>
 
 <br/>
+
 <!-- FRONTEND -->
 <a href="https://reactjs.org">
 <img height="35" src="./images/react.svg"/>
@@ -81,6 +82,7 @@
 </a>
 
 <br/>
+
 <!-- BACKEND -->
 <a href="https://nodejs.org/en/">
 <img height="35" src="./images/nodejs.svg"/>
@@ -147,6 +149,19 @@
 <br/>
 <br/>
 
+> ## About me
+
+Fullstack developer with primary focus on frontend.
+
+- 💼 Full-stack developer at [Codegrain](https://codegra.in).
+- 💪 Currently working on my own SaaS.
+- 📈 I am a nerd🤓 and love creating products that help people in the real world.
+- 💬 Ask me about anything [here](https://github.com/themashcodee/themashcodee/issues).
+
+<br/>
+<br/>
+<br/>
+
 > ## Projects
 
 ### 1. Chatsman - Feature-rich real-time chatting app (PWA)
@@ -161,7 +176,8 @@
 
 https://user-images.githubusercontent.com/50915748/140615207-0b07884c-7f47-458e-8840-0971edae3885.mp4
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=themashcodee&repo=Chatsman)](https://github.com/themashcodee/Chatsman)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=themashcodee&repo=chatsman)](https://github.com/themashcodee/chatsman)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=themashcodee&repo=chatsman-api)](https://github.com/themashcodee/chatsman-api)
 
 ### 2. Goldencent - A beautiful static website for a company
 
