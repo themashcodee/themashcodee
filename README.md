@@ -149,7 +149,7 @@
 
 > ## About me
 
-Fullstack developer with primary focus on frontend.
+Full-stack web developer with primary focus on frontend.
 
 - 💼 Currently working at [Codegrain](https://codegra.in).
 - 💪 Building my own SaaS.
