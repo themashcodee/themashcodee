@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Mash Codee
 
-#### An enthusiastic frontend-focused full-stack web developer from India
+An enthusiastic frontend-focused full-stack web developer from India
 
----
+<br/>
 
 > ## Connect with me
 
