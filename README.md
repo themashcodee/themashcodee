@@ -1,30 +1,17 @@
 <!-- HEADING -->
 
 # Hi 👋, I'm Mash Codee
-
-An enthusiastic frontend-focused full-stack web developer from India
-
 <br/>
 
-> ## Connect with me
+> ## About me
 
-<a href="https://twitter.com/themashcodee">
-<img height="35" src="./images/twitter.svg"/>
-</a>
-<a href="https://www.linkedin.com/in/themashcodee">
-<img height="35" src="./images/linkedin.svg"/>
-</a>
+Full-stack web developer with primary focus on frontend.
 
-<a href="https://hashnode.com/@themashcodee">
-<img height="35" src="./images/hashnode.svg"/>
-</a>
-<a href="https://stackoverflow.com/users/15689272/themashcodee">
-<img height="35" src="./images/stackoverflow.svg"/>
-</a>
-<a href="mailto:codeemash@gmail.com">
-<img height="35" src="./images/gmail.svg"/>
-</a>
-<br/>
+- 💼 Currently working at [Codegrain](https://codegra.in).
+- 💪 Building my own SaaS.
+- 📈 I am a nerd🤓 and love creating products that help people in the real world.
+- 💬 Ask me about anything [here](https://github.com/themashcodee/themashcodee/issues).
+
 <br/>
 
 > ## Tools and Technologies that I am fond of
@@ -131,19 +118,28 @@ An enthusiastic frontend-focused full-stack web developer from India
 <br/>
 <br/>
 
-> ## About me
+> ## Connect with me
 
-Full-stack web developer with primary focus on frontend.
+<a href="https://twitter.com/themashcodee">
+<img height="35" src="./images/twitter.svg"/>
+</a>
+<a href="https://www.linkedin.com/in/themashcodee">
+<img height="35" src="./images/linkedin.svg"/>
+</a>
 
-- 💼 Currently working at [Codegrain](https://codegra.in).
-- 💪 Building my own SaaS.
-- 📈 I am a nerd🤓 and love creating products that help people in the real world.
-- 💬 Ask me about anything [here](https://github.com/themashcodee/themashcodee/issues).
-
+<a href="https://hashnode.com/@themashcodee">
+<img height="35" src="./images/hashnode.svg"/>
+</a>
+<a href="https://stackoverflow.com/users/15689272/themashcodee">
+<img height="35" src="./images/stackoverflow.svg"/>
+</a>
+<a href="mailto:codeemash@gmail.com">
+<img height="35" src="./images/gmail.svg"/>
+</a>
+<br/>
 <br/>
 
 > ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=themashcodee&count_private=true&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themashcodee&layout=compact)](https://github.com/themashcodee/github-readme-stats)
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=themashcodee&count_private=true&show_icons=true&hide_border=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themashcodee&layout=compact&hide_border=true)](https://github.com/themashcodee/github-readme-stats) |
+| ------------- | ------------- |
