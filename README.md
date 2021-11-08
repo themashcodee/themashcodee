@@ -27,76 +27,64 @@ An enthusiastic frontend-focused full-stack web developer from India
 <br/>
 <br/>
 
-> ## Tools and Technologies that I have used
+> ## Tools and Technologies that I am fond of
 
 <!-- BASIC -->
-<a href="https://www.w3schools.com/html">
-<img height="35" src="./images/html.svg"/>
-</a>
-<a href="https://www.w3schools.com/css">
-<img height="35" src="./images/css.svg"/>
-</a>
 <a href="https://tailwindcss.com/">
 <img height="35" src="./images/tailwindcss.svg"/>
 </a>
-<a href="https://sass-lang.com/">
+<!-- <a href="https://sass-lang.com/">
 <img height="35" src="./images/sass.svg"/>
 </a>
 <a href="https://postcss.org/">
 <img height="35" src="./images/postcss.svg"/>
-</a>
-<a href="https://www.w3schools.com/js">
+</a> -->
+<!-- <a href="https://www.w3schools.com/js">
 <img height="35" src="./images/javascript.svg"/>
-</a>
+</a> -->
 <a href="https://www.typescriptlang.org">
 <img height="35" src="./images/typescript.svg"/>
 </a>
-<a href="https://www.json.org/json-en.html">
+<!-- <a href="https://www.json.org/json-en.html">
 <img height="35" src="./images/json.svg"/>
-</a>
-
-<br/>
+</a> -->
 
 <!-- FRONTEND -->
-<a href="https://reactjs.org">
+<!-- <a href="https://reactjs.org">
 <img height="35" src="./images/react.svg"/>
-</a>
+</a> -->
 <a href="https://nextjs.org">
 <img height="35" src="./images/nextjs.svg"/>
 </a>
 <a href="https://www.framer.com/motion">
 <img height="35" src="./images/framermotion.svg"/>
 </a>
-<a href="https://web.dev/progressive-web-apps">
+<!-- <a href="https://web.dev/progressive-web-apps">
 <img height="35" src="./images/pwa.svg"/>
 </a>
 <a href="https://razorpay.com/">
 <img height="35" src="./images/razorpay.svg"/>
-</a>
-<a href="https://www.apollographql.com/">
+</a> -->
+<!-- <a href="https://www.apollographql.com/">
 <img height="35" src="./images/apollo.svg"/>
 </a>
 <a href="https://redux.js.org/">
 <img height="35" src="./images/redux.svg"/>
-</a>
-
-<br/>
+</a> -->
 
 <!-- BACKEND -->
-<a href="https://nodejs.org/en/">
+<!-- <a href="https://nodejs.org/en/">
 <img height="35" src="./images/nodejs.svg"/>
-</a>
+</a> -->
 <a href="https://expressjs.com/">
 <img height="35" src="./images/express.svg"/>
 </a>
-<a href="https://socket.io/">
+<!-- <a href="https://socket.io/">
 <img height="35" src="./images/socketio.svg"/>
-</a>
+</a> -->
 <a href="https://graphql.org/">
 <img height="35" src="./images/graphql.svg"/>
 </a>
-
-<br/>
 
 <!-- DATABASES -->
 <a href="https://www.postgresql.org/">
@@ -105,20 +93,18 @@ An enthusiastic frontend-focused full-stack web developer from India
 <a href="https://www.mongodb.com/">
 <img height="35" src="./images/mongodb.svg"/>
 </a>
-<a href="https://redis.io/">
+<!-- <a href="https://redis.io/">
 <img height="35" src="./images/redis.svg"/>
-</a>
+</a> -->
 <a href="https://www.prisma.io/">
 <img height="35" src="./images/prisma.svg"/>
 </a>
-<a href="https://strapi.io/">
+<!-- <a href="https://strapi.io/">
 <img height="35" src="./images/strapi.svg"/>
-</a>
-
-<br/>
+</a> -->
 
 <!-- HOSTING -->
-<a href="https://www.heroku.com/">
+<!-- <a href="https://www.heroku.com/">
 <img height="35" src="./images/heroku.svg"/>
 </a>
 <a href="https://supabase.io/">
@@ -129,20 +115,18 @@ An enthusiastic frontend-focused full-stack web developer from India
 </a>
 <a href="https://vercel.com/">
 <img height="35" src="./images/vercel.svg"/>
-</a>
-
-<br/>
+</a> -->
 
 <!-- TOOLS -->
-<a href="https://git-scm.com/">
+<!-- <a href="https://git-scm.com/">
 <img height="35" src="./images/git.svg"/>
-</a>
+</a> -->
 <a href="https://www.figma.com/">
 <img height="35" src="./images/figma.svg"/>
 </a>
-<a href="https://www.postman.com/">
+<!-- <a href="https://www.postman.com/">
 <img height="35" src="./images/postman.svg"/>
-</a>
+</a> -->
 
 <br/>
 <br/>
