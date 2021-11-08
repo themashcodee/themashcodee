@@ -153,12 +153,11 @@
 
 Fullstack developer with primary focus on frontend.
 
-- 💼 Full-stack developer at [Codegrain](https://codegra.in).
-- 💪 Currently working on my own SaaS.
+- 💼 Currently working at [Codegrain](https://codegra.in).
+- 💪 Building my own SaaS.
 - 📈 I am a nerd🤓 and love creating products that help people in the real world.
 - 💬 Ask me about anything [here](https://github.com/themashcodee/themashcodee/issues).
 
-<br/>
 <br/>
 
 > ## Stats
