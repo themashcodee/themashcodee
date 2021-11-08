@@ -26,7 +26,6 @@
 </a>
 <br/>
 <br/>
-<br/>
 
 > ## Tools and Technologies that I have used
 
@@ -145,7 +144,6 @@
 <img height="35" src="./images/postman.svg"/>
 </a>
 
-<br/>
 <br/>
 <br/>
 
