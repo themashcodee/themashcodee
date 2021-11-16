@@ -77,9 +77,9 @@ Full-stack web developer with primary focus on frontend.
 <!-- <a href="https://www.postgresql.org/">
 <img height="35" src="./images/postgresql.svg"/>
 </a> -->
-<a href="https://www.mongodb.com/">
+<!-- <a href="https://www.mongodb.com/">
 <img height="35" src="./images/mongodb.svg"/>
-</a>
+</a> -->
 <!-- <a href="https://redis.io/">
 <img height="35" src="./images/redis.svg"/>
 </a> -->
