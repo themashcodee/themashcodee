@@ -7,7 +7,7 @@
 
 Full-stack web developer with primary focus on frontend.
 
-- 💼 Currently working at [Codegrain](https://codegra.in).
+- 💼 Currently working as a full-stack freelancer at [Codegrain](https://codegra.in).
 - 💪 Building my own SaaS [Waggle Design](https://waggledesign.com).
 - 📈 I am a nerd🤓 and love creating products that help people in the real world.
 - 💬 Ask me about anything [here](https://github.com/themashcodee/themashcodee/issues).
