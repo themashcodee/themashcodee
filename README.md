@@ -74,9 +74,9 @@ Full-stack web developer with primary focus on frontend.
 </a>
 
 <!-- DATABASES -->
-<a href="https://www.postgresql.org/">
+<!-- <a href="https://www.postgresql.org/">
 <img height="35" src="./images/postgresql.svg"/>
-</a>
+</a> -->
 <a href="https://www.mongodb.com/">
 <img height="35" src="./images/mongodb.svg"/>
 </a>
