@@ -5,12 +5,7 @@
 
 > ## About me
 
-Full-stack web developer with primary focus on frontend.
-
-- 💼 Currently working as a full-stack freelancer at [Codegrain](https://codegra.in).
-- 💪 Building my own SaaS [Waggle Design](https://waggledesign.com).
-- 📈 I am a nerd🤓 and love creating products that help people in the real world.
-- 💬 Ask me about anything [here](https://github.com/themashcodee/themashcodee/issues).
+I love playing with the frontend technologies and so currently working as a frontend intern at [ALPHI](https://alphi.in)
 
 <br/>
 
