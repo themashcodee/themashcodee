@@ -5,7 +5,7 @@
 
 > ## About me
 
-I love playing with the frontend technologies and so currently working as a frontend intern at [ALPHI](https://alphi.in)
+I love playing with the frontend technologies and so currently working as a Frontend Engineer at [Polymerize](https://polymerize.io)
 
 <br/>
 
