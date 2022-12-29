@@ -5,8 +5,7 @@
 
 > ## About me
 
-I love playing with the frontend technologies and so currently working as a Frontend Engineer at [Polymerize](https://polymerize.io)
-
+I am a young developer currently working at [IncognitoApps](https://www.incognitoapps.com/) to help companies improve their feedback culture and promote peer-to-peer recognition.
 <br/>
 
 > ## Tools and Technologies that I am fond of
