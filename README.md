@@ -105,6 +105,9 @@ I am a young developer currently working at [IncognitoApps](https://www.incognit
 <a href="https://www.figma.com/">
 <img height="35" src="./images/figma.svg"/>
 </a>
+<a href="https://flutter.dev/">
+<img height="35" src="./images/flutter.svg"/>
+</a>
 <!-- <a href="https://www.postman.com/">
 <img height="35" src="./images/postman.svg"/>
 </a> -->
