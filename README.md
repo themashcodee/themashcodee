@@ -1,6 +1,6 @@
 <!-- HEADING -->
 
-# Hi 👋, I'm Mash Codee
+# Hi 👋, I'm Manish Panwar
 <br/>
 
 > ## About me
