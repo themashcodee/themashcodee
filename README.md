@@ -5,7 +5,7 @@
 
 > ## About me
 
-I am a young developer currently working at [IncognitoApps](https://www.incognitoapps.com/) to help companies improve their feedback culture and promote peer-to-peer recognition.
+I am a young developer currently working at [Wrenly](https://www.wrenly.ai/) to help companies build a psychologically safe feedback environment. Directly in Slack.
 <br/>
 
 > ## Tools and Technologies that I am fond of
