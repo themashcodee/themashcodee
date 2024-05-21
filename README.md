@@ -5,7 +5,7 @@
 
 > ## About me
 
-I am a young developer currently working at [Wrenly](https://www.wrenly.ai/) to help companies build a psychologically safe feedback environment. Directly in Slack.
+I am a young developer currently working at [Wrenly AI](https://www.wrenly.ai/) to help companies build a psychologically safe feedback environment. Directly in Slack.
 <br/>
 
 > ## Tools and Technologies that I am fond of
