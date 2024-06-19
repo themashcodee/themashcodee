@@ -140,3 +140,10 @@ I am a young developer currently working at [Wrenly AI](https://www.wrenly.ai/) 
 
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=themashcodee&count_private=true&show_icons=true&hide_border=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themashcodee&layout=compact&hide_border=true)](https://github.com/themashcodee/github-readme-stats) |
 | ------------- | ------------- |
+
+
+## Support
+
+If you like my work (my open source libraries or anything else), you can buy me a coffee! 😊
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/themashcodee)
