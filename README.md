@@ -144,6 +144,6 @@ I am a young developer currently working at [Wrenly AI](https://www.wrenly.ai/) 
 
 ## Support
 
-If you like my work (my open source libraries or anything else), you can buy me a coffee! 😊
+Love my open source work or anything else I do? Treat me to a coffee! 😊
 
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/themashcodee)
