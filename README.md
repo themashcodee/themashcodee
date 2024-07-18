@@ -1,7 +1,6 @@
 <!-- HEADING -->
 
 # Hi 👋, I'm Manish Panwar
-<br/>
 
 ## About me
 
@@ -116,7 +115,6 @@ I am a young developer currently working at [Wrenly AI](https://www.wrenly.ai/) 
 </a> -->
 
 <br/>
-<br/>
 
 ## Connect with me
 
@@ -133,12 +131,11 @@ I am a young developer currently working at [Wrenly AI](https://www.wrenly.ai/) 
 <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg"/>
 </a>
 <br/>
-<br/>
 
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themashcodee&layout=compact&hide_border=true)](https://github.com/themashcodee/github-readme-stats)
-
+<br/>
 
 ## Support
 
