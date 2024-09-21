@@ -109,6 +109,9 @@ I am a young developer currently working at [Wrenly AI](https://www.wrenly.ai/) 
 <a href="https://www.w3schools.com/sql/">
 <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/>
 </a>
+<a href="https://www.docker.com/">
+<img height="35" src="https://github.com/user-attachments/assets/bafb9fd8-a424-4cbb-b925-ad5198af489e"/>
+</a>
 <!-- <a href="https://www.postman.com/">
 <img height="35" src="./images/postman.svg"/>
 </a> -->
