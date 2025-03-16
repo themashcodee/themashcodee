@@ -1,10 +1,12 @@
 <!-- HEADING -->
 
 # Hi 👋, I'm Manish Panwar
-Portfolio - [Check it out](https://read.cv/themashcodee)  
-Resume - [Download](https://drive.google.com/file/d/1kRgZ5m8M48Zwo8SDOE2SidgDl4IgcSNN/view)
 
-I’m a self-taught Full Stack Developer who loves creating impactful solutions and driving business growth. During my time as a Founding Engineer at Wrenly AI, I built an MS Teams Bot that brought in over 10 new customers. Beyond coding, I mentor junior developers, shape product strategies, and lead growth initiatives. I’m also passionate about open-source and enjoy building tools that help fellow developers. Let’s connect if you’re looking for a curious mind with both technical chops and a keen sense of collaboration!
+I’m a self-taught Full Stack Developer who loves creating impactful solutions and driving business growth. During my time as a Founding Engineer at Wrenly AI, I built an MS Teams Bot that brought in over 10 new customers. Beyond coding, I mentor junior developers, shape product strategies, and lead growth initiatives. I’m also passionate about open-source and enjoy building tools that help fellow developers. Let’s connect if you’re looking for a curious mind with both technical chops and a keen sense of collaboration!  
+
+Portfolio - [Check it out](https://read.cv/themashcodee)  
+Resume - [Download](https://drive.google.com/file/d/1kRgZ5m8M48Zwo8SDOE2SidgDl4IgcSNN/view)  
+Email - codeemash@gmail.com
 
 
 ## Tools and Technologies that I am fond of
@@ -58,11 +60,11 @@ I’m a self-taught Full Stack Developer who loves creating impactful solutions 
 <a href="https://www.linkedin.com/in/themashcodee">
   <img height="35" src="./images/linkedin.svg"/>
 </a>
-<a href="mailto:codeemash@gmail.com">
-  <img height="35" src="./images/gmail.svg"/>
-</a>
 <a href="https://leetcode.com/u/themashcode/">
   <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg"/>
+</a>
+<a href="https://themashcodee.hashnode.dev/">
+  <img height="35" src="https://img.icons8.com/?size=512&id=HnB8zGOh5xgd&format=png"/>
 </a>
 
 <br/>
