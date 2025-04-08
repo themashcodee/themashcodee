@@ -2,7 +2,11 @@
 
 # Hi 👋, I'm Manish Panwar
 
-I’m a self-taught Full Stack Developer who loves creating impactful solutions and driving business growth. During my time as a Founding Engineer at Wrenly AI, I built an MS Teams Bot that brought in over 10 new customers. Beyond coding, I mentor junior developers, shape product strategies, and lead growth initiatives. I’m also passionate about open-source and enjoy building tools that help fellow developers. Let’s connect if you’re looking for a curious mind with both technical chops and a keen sense of collaboration!  
+🌻 I'm a self-taught Full Stack Software Engineer who enjoys building useful technology that improves human experiences. I value both the technical challenges and the human needs behind what I create. 
+🌱 I thrive on taking ownership of projects from concept to delivery, with a focus on good design, thoughtful solutions, and helping others grow. 
+👥 When I'm not working, I share insights about workplace culture and helping developers become product-first software engineers. 
+
+📬 If you'd like to chat about work, technology, or anything else, feel free to reach out!
 
 Portfolio - [Check it out](https://read.cv/themashcodee)  
 Resume - [Download](https://drive.google.com/file/d/1kRgZ5m8M48Zwo8SDOE2SidgDl4IgcSNN/view)  
