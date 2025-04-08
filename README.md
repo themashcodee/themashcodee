@@ -50,6 +50,9 @@ Email - codeemash@gmail.com
 <a href="https://www.docker.com/">
   <img height="35" src="https://github.com/user-attachments/assets/bafb9fd8-a424-4cbb-b925-ad5198af489e"/>
 </a>
+<a href="https://www.langchain.com/">
+  <img height="35" src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B"/>
+</a>
 
 <br/>
 <br/>
