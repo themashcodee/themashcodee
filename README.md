@@ -4,9 +4,11 @@
 🌱 I thrive on taking ownership of projects from concept to delivery, with a focus on good design, thoughtful solutions, and helping others grow. 
 👥 When I'm not working, I share insights about workplace culture and helping developers become product-first software engineers. 
 📬 If you'd like to chat about work, technology, or anything else, feel free to reach out!
+
 Portfolio - [Check it out](https://read.cv/themashcodee)  
 Resume - [Download](https://drive.google.com/file/d/1kRgZ5m8M48Zwo8SDOE2SidgDl4IgcSNN/view)  
 Email - codeemash@gmail.com
+LinkedIn - [themashcodee](https://www.linkedin.com/in/themashcodee))
 
 ### NPM Packages
 📦 [slack-blocks-to-jsx](https://www.npmjs.com/package/slack-blocks-to-jsx) - 1500+ weekly downloads
@@ -54,22 +56,6 @@ Email - codeemash@gmail.com
 </a>
 <a href="https://www.langchain.com/">
   <img height="35" src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B"/>
-</a>
-<br/>
-<br/>
-
-## Connect with me
-<a href="https://twitter.com/themashcodee">
-  <img height="35" src="./images/twitter.svg"/>
-</a>
-<a href="https://www.linkedin.com/in/themashcodee">
-  <img height="35" src="./images/linkedin.svg"/>
-</a>
-<a href="https://leetcode.com/u/themashcode/">
-  <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg"/>
-</a>
-<a href="https://themashcodee.hashnode.dev/">
-  <img height="35" src="https://img.icons8.com/?size=512&id=HnB8zGOh5xgd&format=png"/>
 </a>
 <br/>
 <br/>
