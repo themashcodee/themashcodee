@@ -7,7 +7,7 @@
 
 Portfolio - [Check it out](https://read.cv/themashcodee)  
 Resume - [Download](https://drive.google.com/file/d/1kRgZ5m8M48Zwo8SDOE2SidgDl4IgcSNN/view)  
-Email - codeemash@gmail.com
+Email - codeemash@gmail.com  
 LinkedIn - [themashcodee](https://www.linkedin.com/in/themashcodee))
 
 ### NPM Packages
