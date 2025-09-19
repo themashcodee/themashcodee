@@ -11,7 +11,7 @@ Email - codeemash@gmail.com
 LinkedIn - [themashcodee](https://www.linkedin.com/in/themashcodee)
 
 ### NPM Packages
-📦 [slack-blocks-to-jsx](https://www.npmjs.com/package/slack-blocks-to-jsx) - 1500+ weekly downloads
+📦 [slack-blocks-to-jsx](https://www.npmjs.com/package/slack-blocks-to-jsx) - 1800+ weekly downloads
 
 <br/>
 
