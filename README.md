@@ -5,7 +5,7 @@
 👥 When I'm not working, I share insights about workplace culture and helping developers become product-first software engineers. 
 📬 If you'd like to chat about work, technology, or anything else, feel free to reach out!
 
-Portfolio - [Check it out](https://thegistof.me/themashcodee)  
+Portfolio - [Check it out](https://themashcodee.framer.website/)  
 Resume - [Download](https://drive.google.com/file/d/1kRgZ5m8M48Zwo8SDOE2SidgDl4IgcSNN/view)  
 Email - codeemash@gmail.com  
 LinkedIn - [themashcodee](https://www.linkedin.com/in/themashcodee)
