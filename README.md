@@ -1,9 +1,6 @@
 <!-- HEADING -->
 # Hi 👋, I'm Manish Panwar
-🌻 I'm a self-taught Full Stack Software Engineer who enjoys building useful technology that improves human experiences. I value both the technical challenges and the human needs behind what I create. 
-🌱 I thrive on taking ownership of projects from concept to delivery, with a focus on good design, thoughtful solutions, and helping others grow. 
-👥 When I'm not working, I share insights about workplace culture and helping developers become product-first software engineers. 
-📬 If you'd like to chat about work, technology, or anything else, feel free to reach out!
+AI-native Full Stack Engineer 🚀 | Founding Engineer @ Wrenly AI 🏆 Capterra "Best Ease of Use" 2025 | Building at the intersection of product, design, and engineering | Open source: Slack Blocks React Render
 
 Portfolio - [Check it out](https://themashcodee.framer.website/)  
 Resume - [Download](https://drive.google.com/file/d/1kRgZ5m8M48Zwo8SDOE2SidgDl4IgcSNN/view)  
