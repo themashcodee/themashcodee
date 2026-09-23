@@ -1,6 +1,6 @@
 <!-- HEADING -->
 # Hi 👋, I'm Manish Panwar
-AI-native Full Stack Engineer 🚀 | Founding Engineer @ Wrenly AI 🏆 Capterra "Best Ease of Use" 2025 | Building at the intersection of product, design, and engineering | Open source: Slack Blocks React Render
+Forward Deployed Engineer | Founding Engineer @ Wrenly AI 🏆 Capterra "Best Ease of Use" 2025 | Building at the intersection of product, design, and engineering | Open source: Slack Blocks React Render
 
 Portfolio - [Check it out](https://themashcodee.framer.website/)  
 Resume - [Download](https://drive.google.com/file/d/1kRgZ5m8M48Zwo8SDOE2SidgDl4IgcSNN/view)  
